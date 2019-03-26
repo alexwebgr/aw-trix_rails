@@ -1,6 +1,7 @@
 # Aw::TrixRails
 A gem for the Ruby on Rails assets pipeline. The gem version matches the one of the editor.
 
+[![Gem Version](https://badge.fury.io/rb/aw-trix_rails.svg)](https://badge.fury.io/rb/aw-trix_rails)
 ## Installation
 
 Add this line to your application's Gemfile:
